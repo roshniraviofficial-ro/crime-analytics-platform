@@ -1,0 +1,6 @@
+fir_id,crime_type,date,location,latitude,longitude,accused_name,victim_name,status,severity_score
+FIR101,Theft,2025-01-10,Bangalore,12.9716,77.5946,Ravi,Kumar,Open,3
+FIR102,Cybercrime,2025-01-12,Mysore,12.2958,76.6394,Arun,Priya,Closed,4
+FIR103,Fraud,2025-01-15,Bangalore,12.9716,77.5946,Suresh,Anitha,Under Investigation,4
+FIR104,Robbery,2025-01-20,Hubli,15.3647,75.1240,Karthik,Ramesh,Open,5
+FIR105,Theft,2025-01-22,Mangalore,12.9141,74.8560,Ravi,Divya,Closed,3
